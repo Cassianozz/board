@@ -4,7 +4,6 @@ import lombok.NoArgsConstructor;
 
 import java.sql.Timestamp;
 import java.time.OffsetDateTime;
-
 import static java.time.ZoneOffset.UTC;
 import static java.util.Objects.nonNull;
 import static lombok.AccessLevel.PRIVATE;
